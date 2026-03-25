@@ -1,6 +1,6 @@
 ```
-Name : P PARTHIBAN
-Register number : 212223230145
+Name : SRI SAI PRIYA S
+Register number : 212222240103
 ```
 # EXP 3 - Delhi Air Quality Analysis
 
